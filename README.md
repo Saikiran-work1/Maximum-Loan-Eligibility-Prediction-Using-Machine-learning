@@ -1,4 +1,4 @@
- #Maximum Loan Eligibility Prediction
+ ## Maximum Loan Eligibility Prediction
 
 ## Project Overview
 This project develops a machine learning model to predict the maximum loan amount a customer is eligible for based on financial and demographic factors.
@@ -17,7 +17,7 @@ Financial institutions require accurate loan eligibility estimation methods. Thi
 - Random Forest Regressor
 
 ## Results
-Linear Regression achieved high predictive accuracy with strong generalization between training and test datasets.
+Linear Regression achieved good predictive accuracy with strong generalization between training and test datasets.
 
 ## Author
-Your Name
+Venkata Sai Kiran Kothapalli
